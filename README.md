@@ -3,7 +3,7 @@
   # **Souradip Biswas**
   `@sobiswriter`
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00A9F4&center=true&vCenter=true&width=500&height=70&lines=AI+Architect+%7C+Web+Alchemist;Engineering+Intelligent+Digital+Futures;Crafting+Resilient+%26+Scalable+Systems" alt="AI Architect | Web Alchemist | Engineering Intelligent Digital Futures | Crafting Resilient & Scalable Systems" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00A9F4&center=true&vCenter=true&width=500&height=70&lines=AI+Architect+%7C+Web+Alchemist;Engineering+Intelligent+Digital+Futures;Crafting+Resilient+%26+Scalable+Systems" alt="AI Architect | Web Alchemist | Engineering Intelligentual | Crafting Resilient & Scalable Systems" />
 
   <p>
     <a href="https://www.linkedin.com/in/souradip-biswas-660248289/" target="_blank">
