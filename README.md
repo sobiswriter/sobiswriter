@@ -83,11 +83,8 @@ Proven ability in **AI, Web Development, and Event Leadership** — from hackath
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sobiswriter&show_icons=true&theme=transparent&hide_border=true&title_color=00F5D4&text_color=D3D3D3&icon_color=00F5D4)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sobiswriter&layout=compact&theme=transparent&hide_border=true&title_color=00F5D4&text_color=D3D3D3)  
 
-<br><br>
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sobiswriter&theme=transparent&hide_border=true&ring=00F5D4&currStreakLabel=00F5D4)  
-
 </div>
+
 
 ## 💡 Dev Quote  
 
