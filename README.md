@@ -1,100 +1,103 @@
 <div align="center">
 
-# **Souradip Biswas**
-`@sobiswriter`
+Souradip Biswas
+@sobiswriter
 
 <a href="https://github.com/sobiswriter">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&height=70&lines=AI+Architect+%7C+Web+Alchemist;Engineering+Intelligent+Digital+Futures;Crafting+Resilient+%26+Scalable+Systems" alt="Typing SVG" />
+<img src="https://www.google.com/search?q=https://readme-typing-svg.demolab.com%3Ffont%3DFira%2BCode%26weight%3D600%26size%3D22%26pause%3D1000%26color%3D36BCF7%26center%3Dtrue%26vCenter%3Dtrue%26width%3D500%26height%3D70%26lines%3DAI%2BArchitect%2B%257C%2BWeb%2BAlchemist%3BEngineering%2BIntelligent%2BDigital%2BFutures%3BCrafting%2BResilient%2B%2526%2BScalable%2BSystems" alt="Typing SVG" />
 </a>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/souradip-biswas-660248289/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a> &nbsp;
-  <a href="https://github.com/sobiswriter" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a> &nbsp;
-  <a href="mailto:YOUR_EMAIL_ADDRESS_HERE">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
+<p>
+<a href="https://www.linkedin.com/in/souradip-biswas-660248289/" target="_blank">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0A66C2%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn">
+</a> &nbsp;
+<a href="https://github.com/sobiswriter" target="_blank">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/GitHub-181717%3Fstyle%3Dfor-the-badge%26logo%3Dgithub%26logoColor%3Dwhite" alt="GitHub">
+</a> &nbsp;
+<a href="mailto:YOUR_EMAIL_ADDRESS_HERE">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Email-D14836%3Fstyle%3Dfor-the-badge%26logo%3Dgmail%26logoColor%3Dwhite" alt="Email">
+</a>
 </p>
 
 </div>
-
----
 
 I architect intelligent systems and craft resilient web platforms. My focus is on transforming complex challenges into elegant, scalable solutions at the intersection of Artificial Intelligence and advanced Web Architecture.
 
----
-
-### Languages and Tools:
-
-<p align="center">
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-  <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original-wordmark.svg" alt="go" width="40" height="40"/> </a>
-  
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a>
-  
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a>
-  <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a>
-
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-  <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="fastapi" width="40" height="40"/> </a>
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="django" width="40" height="40"/> </a>
-  
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
-  
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
-  <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a>
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
-  <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a>
-  <a href="https://www.terraform.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="terraform" width="40" height="40"/> </a>
-</p>
-
----
-
-<details>
-  <summary><strong>My Approach & Philosophy</strong></summary>
-  <br>
-  > * **Clarity from Complexity:** I believe the most sophisticated solutions are those that bring clarity and simplicity to complex problems. My design philosophy centers on clean, maintainable, and understandable architectures.
-  > * **Pragmatic Innovation:** While passionate about cutting-edge technology, I prioritize pragmatic solutions that deliver tangible value and are built to last.
-  > * **Performance & Scalability by Design:** These are not afterthoughts but foundational pillars of any system I architect or build.
-  > * **Ethical Technology:** I am committed to developing AI and web systems that are fair, transparent, and aligned with ethical principles.
-  > * **Continuous Evolution:** The digital landscape is ever-changing. I am a lifelong learner, constantly refining my skills and exploring new paradigms to stay at the forefront.
-</details>
-
-<details>
-  <summary><strong>Current Focus & Exploration</strong></summary>
-  <br>
-  <ul>
-    <li><strong>Optimizing LLMs:</strong> Researching and implementing techniques for efficient fine-tuning and deployment of Large Language Models.</li>
-    <li><strong>Distributed AI Systems:</strong> Architecting AI solutions that can scale across distributed compute environments.</li>
-    <li><strong>Next-Generation Web Frameworks:</strong> Exploring advancements in frameworks like Next.js, Nuxt, and SvelteKit for performant web experiences.</li>
-    <li><strong>AI-Augmented Development:</strong> Leveraging AI tools to enhance the software development lifecycle, from design to deployment.</li>
-  </ul>
-</details>
-
----
-
-### GitHub Insights
-
+Core Expertise
+<table>
+<tr>
+<td valign="top" width="33%">
 <div align="center">
+<strong>AI & Machine Learning</strong>
+</div>
+<br>
+<ul>
+<li>Deep Learning (TensorFlow, PyTorch)</li>
+<li>Natural Language Processing (LLMs)</li>
+<li>Computer Vision</li>
+<li>MLOps & AI System Deployment</li>
+<li>Data Engineering & Scalable Data Pipelines</li>
+</ul>
+</td>
+<td valign="top" width="33%">
+<div align="center">
+<strong>Web Architecture & Development</strong>
+</div>
+<br>
+<ul>
+<li>Microservices & Event-Driven Systems</li>
+<li>API Design (REST, GraphQL)</li>
+<li>Backend (Node.js, Python/Django/FastAPI, Go)</li>
+<li>Frontend (React, Next.js, Vue.js, TypeScript)</li>
+<li>Databases (SQL, NoSQL, Vector DBs)</li>
+</ul>
+</td>
+<td valign="top" width="33%">
+<div align="center">
+<strong>Cloud & DevOps</strong>
+</div>
+<br>
+<ul>
+<li>AWS, GCP, Azure</li>
+<li>Kubernetes & Docker</li>
+<li>CI/CD (GitHub Actions)</li>
+<li>Infrastructure as Code (Terraform)</li>
+<li>Observability & Monitoring</li>
+</ul>
+</td>
+</tr>
+</table>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=sobiswriter&show_icons=true&theme=tokyonight&hide_border=true&title_color=36BCF7&text_color=A9B1D6&icon_color=36BCF7&ring_color=36BCF7" alt="sobiswriter's GitHub stats" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sobiswriter&layout=compact&theme=tokyonight&hide_border=true&title_color=36BCF7&text_color=A9B1D6&langs_count=8" alt="Top Languages" />
-  <br>
-  <img src="https://raw.githubusercontent.com/sobiswriter/sobiswriter/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+<details>
+<summary><strong>👁️ My Approach & Philosophy</strong></summary>
+<br>
+> * Clarity from Complexity: I believe the most sophisticated solutions are those that bring clarity and simplicity to complex problems. My design philosophy centers on clean, maintainable, and understandable architectures.
+> * Pragmatic Innovation: While passionate about cutting-edge technology, I prioritize pragmatic solutions that deliver tangible value and are built to last.
+> * Performance & Scalability by Design: These are not afterthoughts but foundational pillars of any system I architect or build.
+> * Ethical Technology: I am committed to developing AI and web systems that are fair, transparent, and aligned with ethical principles.
+> * Continuous Evolution: The digital landscape is ever-changing. I am a lifelong learner, constantly refining my skills and exploring new paradigms to stay at the forefront.
+</details>
 
+<details>
+<summary><strong>🚀 Current Focus & Exploration</strong></summary>
+<br>
+<ul>
+<li><strong>Optimizing LLMs:</strong> Researching and implementing techniques for efficient fine-tuning and deployment of Large Language Models.</li>
+<li><strong>Distributed AI Systems:</strong> Architecting AI solutions that can scale across distributed compute environments.</li>
+<li><strong>Next-Generation Web Frameworks:</strong> Exploring advancements in frameworks like Next.js, Nuxt, and SvelteKit for performant web experiences.</li>
+<li><strong>AI-Augmented Development:</strong> Leveraging AI tools to enhance the software development lifecycle, from design to deployment.</li>
+</ul>
+</details>
+
+GitHub Insights
+<div align="center">
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dsobiswriter%26show_icons%3Dtrue%26theme%3Dtokyonight%26hide_border%3Dtrue%26title_color%3D36BCF7%26text_color%3DA9B1D6%26icon_color%3D36BCF7%26ring_color%3D36BCF7" alt="sobiswriter's GitHub stats" />
+<br>
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Dsobiswriter%26layout%3Dcompact%26theme%3Dtokyonight%26hide_border%3Dtrue%26title_color%3D36BCF7%26text_color%3DA9B1D6%26langs_count%3D8" alt="Top Languages" />
+<br>
+<img src="https://raw.githubusercontent.com/sobiswriter/sobiswriter/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
 </div>
 
----
-
 <div align="center">
-  Let's connect and build something impactful.
+Let's connect and build something impactful.
 </div>
