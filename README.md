@@ -1,18 +1,149 @@
 <div align="center">
 
 # 🚀 Souradip Biswas  
+`@sobiswriter`
 
-`@sobiswriter`  
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=700&color=00F5D4&center=true&vCenter=true&width=700&height=70&lines=Applied+AI+Developer+%7C+ML+Systems;Shipping+AI+Products+%7C+Not+Just+Demos;Hackathons+%7C+Automation+%7C+Cool+Stuff;Building+Things+That+Actually+Run" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F5D4&center=true&vCenter=true&width=600&height=70&lines=AI+Architect+%7C+Web+Alchemist;Engineering+Intelligent+Digital+Futures;Hackathon+Winner+%7C+AI+Enthusiast;Building+Resilient+%26+Scalable+Systems" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5D4,100:7209B7&height=120&section=header" />
 
-![Profile Views](https://komarev.com/ghpvc/?username=sobiswriter&label=Profile%20Views&color=00A9F4&style=for-the-badge)  
-![Followers](https://img.shields.io/github/followers/sobiswriter?style=for-the-badge&color=F72585)  
+![Profile Views](https://komarev.com/ghpvc/?username=sobiswriter&style=for-the-badge&color=00A9F4)
+![Followers](https://img.shields.io/github/followers/sobiswriter?style=for-the-badge&color=F72585)
 ![Stars](https://img.shields.io/github/stars/sobiswriter?style=for-the-badge&color=7209B7)
+
+</div>
 
 ---
 
-### 🌐 Find Me Online
+## 🧠 Dev Mode: ON
+
+I build **applied AI systems** and **developer tooling** with a strong bias toward *shipping*.  
+Most of my work lives where **AI meets real workflows**, not toy notebooks.
+
+Pinned repositories show the heavy builds.  
+This README shows the **dev energy behind them**.
+
+---
+
+## 🧪 Stuff I Like Building
+
+- AI-powered tools (desktop & web)
+- Automation that saves hours
+- Generative systems with structure & memory
+- Persona / agent experiments
+- Hackathon-grade rapid builds that don’t collapse later
+
+---
+
+## 🧰 Nerdy Dev Things™
+
+- ⚙️ Python & PowerShell automation utilities  
+- 🧩 Reusable AI components across projects  
+- 🧪 Experimental sandboxes for wild ideas  
+- 🖥️ Desktop tools for AI-assisted workflows  
+- 🔁 Build → break → rebuild pipelines  
+
+If version 2 doesn’t exist, version 1 didn’t matter.
+
+---
+
+## 🏆 Trophies & Milestones
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=sobiswriter&theme=onestar&no-frame=true&row=1&column=6" />
+
+</div>
+
+---
+
+## 🏆 Achievements (IRL + Online)
+
+- 📜 **Patent Published (IPR)**  
+- 🏫 **Tech Fest – IIT Ropar** technical recognition  
+- 🏆 Winner & finalist in multiple hackathons / ideathons  
+- 🎤 Attended **ODDO Meet (Gandhinagar)** & **IMC Conference (Delhi)**  
+- ⭐ HackerRank: **5★ Problem Solving**, **5★ Python**
+
+---
+
+## 🚀 Projects
+
+My **major projects are pinned** above 👆  
+They cover:
+- AI-driven document intelligence  
+- Persona-based generative systems  
+- Experimental AI bots  
+- Desktop & web-based AI tooling  
+
+(Click the pins. That’s where the real code lives.)
+
+---
+
+## 🛠️ Tech Stack I Choose
+
+<div align="center">
+  
+[![My Skills](https://skillicons.dev/icons?i=python,pytorch,tensorflow,aws,gcp,azure,docker,kubernetes,fastapi,django,react,nextjs,vue,typescript,graphql,go,terraform,git,github,linux,nodejs,electron,tailwind)](https://skillicons.dev)
+
+</div>
+
+
+---
+## 🧠 Language Usage
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sobiswriter&theme=github_dark" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sobiswriter&theme=github_dark" />
+
+</div>
+
+---
+
+
+
+## 📊 GitHub Summary
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sobiswriter&theme=github_dark" />
+
+</div>
+
+---
+
+
+## 🧬 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sobiswriter&bg_color=0d1117&color=00F5D4&line=7209B7&point=ffffff&hide_border=true" />
+
+</div>
+
+---
+
+## 💡 Dev Quote  
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+
+---
+## 🎮 Hobbies & Passions  
+
+- 📚 Reading & Writing  
+- 💻 Coding & Generating AI Content  
+- 🎮 Gaming & streaming
+- 🔬 Passion for **AI Research & Future Implementations**  
+
+---
+
+
+## 🌐 Around the Internet
+
+<div align="center">
+
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/sobiswriter) 
 [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/sobiswriter) 
 [![StackOverflow](https://skillicons.dev/icons?i=stackoverflow)](https://stackoverflow.com/users/yourid) 
@@ -23,84 +154,7 @@
 
 ---
 
-✨ *I architect intelligent systems, manage projects, and craft resilient platforms.*  
-Proven ability in **AI, Web Development, and Event Leadership** — from hackathon wins to real-world deployments.
-
----
-
-## 🏆 Key Achievements  
-
-- 🥇 **Hackathon Wins:** *Web_E_Thon 2025* (Runner-up) & *Cover Page @ IIT Ropar*  
-- 💼 **Leadership:** Directed tech events, hackathons, and project teams  
-- 📈 **Impact:** Boosted project success rates by 10% at Num Genius AI  
-
----
-
-## 📜 Certifications  
-
-- 🧠 **GenAI Prompt Engineering**  
-- 🐍 **Crash Course on Python** – Google  
-- 🌐 **Web Development** – IBM  
-- 🤖 **AI & ML with Data Science Workshop** – IIT Ropar  
-
----
-
-## 🚀 Highlighted Projects  
-
-- 🔮 **PersonaVerse (Node.js + Electron)** – Playground for AI Persona testing with Tailwind UI  
-- 🎨 **AI Overlay (Python + Tkinter)** – Custom overlay tool inspired by Cluley  
-- 📩 **Inviter (Node.js + Next.js)** – AI-powered invitation system with Twilio & SMTPS2GO integration  
-- 🏢 **Business Venture App (Node.js + Electron)** – Cashflow, storage, invoices & reports in one platform  
-
----
-
-## 🧩 Side Projects  
-
-**PowerShell Modules Suite** *(Python-based tools)*:  
-- Shell Downloader · Web Scraper · Data Wizard · Website Cloner  
-- Email Automator · Stopwatch · Timer · Digital Clock · Task Scheduler · Image Editor  
-
----
-
-## 🛠️ Tech Stack  
-
 <div align="center">
-  
-[![My Skills](https://skillicons.dev/icons?i=python,pytorch,tensorflow,aws,gcp,azure,docker,kubernetes,fastapi,django,react,nextjs,vue,typescript,graphql,go,terraform,git,github,linux,nodejs,electron,tailwind)](https://skillicons.dev)
-
-</div>
-
----
-
-## 📊 GitHub Insights  
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=sobiswriter&theme=onestar&no-frame=true&row=1&column=6" height="120" />
-
-<br><br>
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sobiswriter&show_icons=true&theme=transparent&hide_border=true&title_color=00F5D4&text_color=D3D3D3&icon_color=00F5D4)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sobiswriter&layout=compact&theme=transparent&hide_border=true&title_color=00F5D4&text_color=D3D3D3)  
-
-</div>
-
-
-## 💡 Dev Quote  
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-
-## 🎮 Hobbies & Passions  
-
-- 📚 Reading & Writing  
-- 💻 Coding & Generating AI Content  
-- 🎮 Gaming  
-- 🔬 Passion for **AI Research & Future Implementations**  
-
----
-
-<div align="center">
-  <i>✨ Always curious. Always building. Let’s create something impactful together!</i>
+  <i>Build fast. Refactor harder. Ship cool things.</i>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7209B7,100:00F5D4&height=120&section=footer" />
 </div>
