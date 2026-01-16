@@ -25,6 +25,16 @@ This README shows the **dev energy behind them**.
 
 ---
 
+## 📊 GitHub Summary
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sobiswriter&theme=github_dark" />
+
+</div>
+
+---
+
 ## 🧪 Stuff I Like Building
 
 - AI-powered tools (desktop & web)
@@ -32,18 +42,6 @@ This README shows the **dev energy behind them**.
 - Generative systems with structure & memory
 - Persona / agent experiments
 - Hackathon-grade rapid builds that don’t collapse later
-
----
-
-## 🧰 Nerdy Dev Things™
-
-- ⚙️ Python & PowerShell automation utilities  
-- 🧩 Reusable AI components across projects  
-- 🧪 Experimental sandboxes for wild ideas  
-- 🖥️ Desktop tools for AI-assisted workflows  
-- 🔁 Build → break → rebuild pipelines  
-
-If version 2 doesn’t exist, version 1 didn’t matter.
 
 ---
 
@@ -57,6 +55,17 @@ If version 2 doesn’t exist, version 1 didn’t matter.
 
 
 ---
+
+## 🧰 Nerdy Dev Things™
+
+- ⚙️ Python & PowerShell automation utilities  
+- 🧩 Reusable AI components across projects  
+- 🧪 Experimental sandboxes for wild ideas  
+- 🖥️ Desktop tools for AI-assisted workflows  
+- 🔁 Build → break → rebuild pipelines  
+
+If version 2 doesn’t exist, version 1 didn’t matter.
+
 
 ## 🏆 Achievements (IRL + Online)
 
@@ -100,19 +109,7 @@ They cover:
 
 </div>
 
----
 
-
-
-## 📊 GitHub Summary
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sobiswriter&theme=github_dark" />
-
-</div>
-
----
 
 
 ## 🧬 Contribution Graph
